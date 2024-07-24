@@ -12,7 +12,7 @@ function Logo() {
     className='hidden md:block cursor-pointer'
     height='100'
     width='100'
-    src='/images/klikhomestay.png'
+    src='https://res.cloudinary.com/du0tsletf/image/upload/v1719337472/Default_Create_a_stunning_logo_featuring_the_text_Indahnesia_w_3-removebg-preview_npvbuq.png'
   />
 }
 
